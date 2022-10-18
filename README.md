@@ -13,7 +13,7 @@ In this project you will create a bracket validity checker to identify if each {
 [Amazon Java Compiler](./src/com/ata/usingstacksandqueues/amazonjava/README.md)
 
 
-### Part 2 - Rolling Mean Calculator
+### Optional Part 2 - Rolling Mean Calculator
 
 In this project you will implement the logic to calculate rolling means. Rolling means are used to show trends in data (stock markets, prices, health outbreaks, etc.) over intervals of time.
 
